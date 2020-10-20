@@ -6,6 +6,9 @@ This is a simple file
 
 Sample website with plenty of files for demos
 
+## Introduction
+Paragraph
+
 ## How to contribute
 
 ## Deployment
